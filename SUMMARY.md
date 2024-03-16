@@ -10,7 +10,8 @@
   * [🧙🏻‍♂️🧙🏽‍♂️+... Etapa inicial -Multicuenta](guias-principales/etapa-inicial/+...-etapa-inicial-multicuenta.md)
 * [🐊 Etapa Intermedia](guias-principales/etapa-intermedia/README.md)
   * [👥 Etapa intermedia Multicuenta](guias-principales/etapa-intermedia/etapa-intermedia-multicuenta.md)
-* [🐉 Etapa Avanzada](guias-principales/etapa-avanzada.md)
+* [🐉 Etapa Avanzada](guias-principales/etapa-avanzada/README.md)
+  * [👥 Fase Final Multicuenta](guias-principales/etapa-avanzada/fase-final-multicuenta.md)
 
 ## DE INTERÉS
 
