@@ -29,7 +29,7 @@ description: >-
 
 * Enfréntate a 8 desafiantes salas junto a un equipo experimentado.
 * Obtén **dofus falsos** como recompensa final.
-* Canjea los dofus falsos por **falsos kuakua** en la tienda final.
+* Canjea los dofus falsos por **falsos kuakua** en la tienda **Set emperador + Supremo + Dofuces.**
 * Compra los **dofus finales**, los más poderosos del servidor, con los falsos kuakua.
 * Llega a ella desde **.Shop** o desde .**Tiendafus** hablando con **el capitán Yglú**
 
