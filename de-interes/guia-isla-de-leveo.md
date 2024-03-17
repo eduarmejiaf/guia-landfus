@@ -16,7 +16,7 @@ En esta isla, como su nombre indica, tendrás la oportunidad de aumentar el nive
 
     **PD:** En la ubicación donde queda la mazmorra laberinto del minotauro encontraras un NPC llamado ANTRO DE XP el cual consta de 6 mapas y en cada mapa encontraras un monstruo distinto que te darán MUCHA xp como premio al matarlos.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Al llegar a la isla lo primero que encontraran son, varios NPC en el cual podrán comprar todo por kamas.
 
