@@ -1,4 +1,32 @@
+---
+description: 'Guía de Mascotas, Monturas y Más: ¡Tus compañeros inseparables en Dofus!'
+---
+
 # 🦊 Guía de Mascotas, Mascoturas y Monturas
+
+**Las mascotas y monturas no solo son adorables compañeros en tu aventura, sino que también te ofrecen beneficios invaluables.** Las **mascotas, Monturas y Mascoturas** te otorgan **estadísticas adicionales** que pueden mejorar tu rendimiento en combate,  las **monturas** te permiten **viajar más rápido además de tirar facha** por el mundo de Landfus.
+
+**En esta guía encontrarás:**
+
+**1. Información completa sobre mascotas:**
+
+* **Estadísticas:** Consulta las bonificaciones que cada mascota te ofrece.
+* **Costo:** Descubre cómo obtener cada mascota, ya sea comprándola, dropeándola en una mazmorra o completando una misión.
+
+**3. Alimentación y subida de nivel:**
+
+* **Sube de nivel  tu Compañero:** es importante que subas al nivel máximo a tus compañeros de aventura ya que cuando lleguen al **nivel 100** tendrán **desbloqueadas** todas sus **estadísticas,** Para subirlo de nivel solo debes abrir el **panel de tu montura** en la parte inferior derecha el símbolo de **dragopavo y** poner la xp **asignada en 90%,** ahora cada combate le dará el 90%de la Xp que ganes a la montura
+
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+
+* **Cuida de tus compañeros:** alimenta a tus  monturas para que Recuperen su energía y mejoren sus estadísticas, las Monturas y Mascoturas pueden alimentarse arrastrando cualquier tipo de pez a tu inventario después de equiparla&#x20;
+
+<figure><img src="../.gitbook/assets/image (76).png" alt="" width="294"><figcaption></figcaption></figure>
+
+**4. Consejos para equipar la montura o mascotura:**
+
+* **Utiliza el silbato:** No olvides comprar el **silbato** en .shop con el **NPC de Dragopavos** para poder montarte en tu montura.
+* **Accede al cercado público:** Encuentra el cercado público en **.tiendafus** para acceder a tus mascotas y monturas.
 
 ## **Mascotas Fase inicial**
 
