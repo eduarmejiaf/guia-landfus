@@ -16,14 +16,14 @@ description: >-
 * Intercambia la Travesía Lanfus por **mascotas, monturas y mascoturas**, las mejores del servidor.
 * Encuentra el NPC para iniciar la misión en **.TIENDAFUS - NPC \[Misiones/Tienda]**.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Obtén el set Emperador/Rey Supremo:**
 
 * Reúne **fragmentos críticos, platos de fribamga y máscaras sag** en las mazmorras **Dung Mizz, Dung Pantano y Dun Sadico**.
 * Reclama el set **Emperador/Rey Supremo** de tu elemento favorito.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Conquista la Dun Enareneda:**
 
