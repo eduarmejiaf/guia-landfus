@@ -18,12 +18,13 @@
 * [🐉 Guía isla de Leveo](de-interes/guia-isla-de-leveo.md)
 * [🪵 Guía de Recursos](de-interes/guia-de-recursos.md)
 * [🥚 Guía de Dofuces](de-interes/guia-de-dofuces.md)
+* [🦊 Guía de Mascotas, Mascoturas y Monturas](de-interes/guia-de-mascotas-mascoturas-y-monturas.md)
+* [⚔️ Guía de Sets, Dofus, Mascotas y Escudos](de-interes/guia-de-sets-dofus-mascotas-y-escudos.md)
 * [🔥 Guía de Mazmorras](de-interes/guia-de-mazmorras.md)
 * [🪓 Guía de Oficios](de-interes/guia-de-oficios.md)
 * [📈 Guías de Utilidades](de-interes/guias-de-utilidades.md)
 * [⚔️ Guia de PVP](de-interes/guia-de-pvp.md)
 * [💲 Guía de Ogrinas](de-interes/guia-de-ogrinas.md)
-* [⚔️ Guía de Sets, Dofus, Mascotas y Escudos](de-interes/guia-de-sets-dofus-mascotas-y-escudos.md)
 
 ***
 
