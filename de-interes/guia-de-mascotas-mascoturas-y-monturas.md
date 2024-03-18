@@ -4,7 +4,7 @@ description: 'Guía de Mascotas, Monturas y Más: ¡Tus compañeros inseparables
 
 # 🦊 Guía de Mascotas, Mascoturas y Monturas
 
-**Las mascotas y monturas no solo son adorables compañeros en tu aventura, sino que también te ofrecen beneficios invaluables.** Las **mascotas, Monturas y Mascoturas** te otorgan **estadísticas adicionales** que pueden mejorar tu rendimiento en combate,  las **monturas** te permiten **viajar más rápido además de tirar facha** por el mundo de Landfus.
+**Las mascotas, monturas y  mascoturas no solo son adorables compañeros en tu aventura, sino que también te ofrecen beneficios invaluables. Las mascotas, monturas y mascoturas te otorgan estadísticas adicionales que pueden mejorar tu rendimiento en combate,  las monturas te permiten viajar más rápido además de tirar facha por el mundo de Landfus.**
 
 **En esta guía encontrarás:**
 
