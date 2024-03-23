@@ -4,7 +4,7 @@ description: >-
   bonos de los sets disponibles en Landfus.
 ---
 
-# ⚔️ Guía de Sets
+# ⚔️ Guía de Sets/Bonus
 
 **¡Optimiza tu equipamiento y domina  Landfus!**
 
@@ -23,6 +23,8 @@ description: >-
 **SETS INICIALES**&#x20;
 
 ## **SETS OBTENIDOS CON DOPLONES:**![:doplon:](https://cdn.discordapp.com/emojis/1218678511557017661.webp?size=96\&quality=lossless)
+
+{% embed url="https://app.gitbook.com/o/bsSdOgnr95l4S0cyh0zq/s/TjygOlUugCfLbsKlAILB/~/changes/103/de-interes/guia-de-recursos" %}
 
 
 
