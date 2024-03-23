@@ -15,7 +15,7 @@ description: >-
 ## 1. <mark style="color:red;">Dofus clásicos versión 1.29</mark> por kamas <img src="https://cdn.discordapp.com/emojis/1215392450944835624.webp?size=160&#x26;quality=lossless" alt=":Kamas:" data-size="line"> \[Opcional su utilización]&#x20;
 
 {% hint style="info" %}
-Ir al apartado de Guía de Dofuces para observar los stats de cada dofus
+Ir al apartado de [Guía de Dofuces](../../../de-interes/guia-de-dofuces.md) **(Click sobre el link)** para observar los stats de cada dofus
 {% endhint %}
 
 |                                                               Valor en kamas                                                               |                                                                          Dofus                                                                          |                                                               Valor en kamas                                                                |                                                                        Dofus Mega                                                                       |
