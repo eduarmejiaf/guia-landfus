@@ -34,17 +34,19 @@ Para comprar estos dofus busquen el NPC Dofus y otros - Ubicación del npc: mapa
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/2.jpg" alt=""><figcaption><p>Utilizar comando .misiones y ir al mapa de la derecha</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.jpg" alt="" width="286"><figcaption><p>Utilizar comando .misiones y ir al mapa de la derecha</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/1.jpg" alt=""><figcaption><p>utilizar comando .zonas y ir a la isla de leveo</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.jpg" alt="" width="294"><figcaption><p>utilizar comando .zonas y ir a la isla de leveo</p></figcaption></figure>
 
 </div>
 
 ## 2. <mark style="color:green;">Dofus - Trofeos FUN</mark> por fragmentos K.O <img src="https://cdn.discordapp.com/emojis/1215739697180180542.webp?size=160&#x26;quality=lossless" alt=":FragmentoKO:" data-size="line">
 
 Los fragmentos KO <img src="https://cdn.discordapp.com/emojis/1215739697180180542.webp?size=160&#x26;quality=lossless" alt=":FragmentoKO:" data-size="line">podrán conseguirlos en la mazmorra K.O. Para ir a esta mazmorra pueden utilizar el comando <mark style="color:blue;">.mazmorras</mark> y al llegar deben hablar con el npc <mark style="color:red;">Mazmorra I (Faciles)</mark> y seleccionar \[Deseo ir a la Dung K.O]. Al finalizar la mazmorra obtendrán un drop fijo de 99 Fragmentos K.O<img src="https://cdn.discordapp.com/emojis/1215739697180180542.webp?size=160&#x26;quality=lossless" alt=":FragmentoKO:" data-size="line">
+
+<figure><img src="../../../.gitbook/assets/1 (3).jpg" alt="" width="292"><figcaption><p>NPC MAZMORRA I (FACILES)</p></figcaption></figure>
 
 {% hint style="info" %}
 Nota: Mazmorra en la cual la pueden pasar con un solo personaje. Recomendación ocra de inteligencia <img src="https://cdn.discordapp.com/emojis/1215752783072985169.webp?size=160&#x26;quality=lossless" alt=":Inteligencia:" data-size="line"> para mayor rapidez.
