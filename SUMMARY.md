@@ -19,7 +19,7 @@
 * [🪵 Guía de Recursos](de-interes/guia-de-recursos.md)
 * [🥚 Guía de Dofuces](de-interes/guia-de-dofuces.md)
 * [🦊 Guía de Mascotas, Mascoturas y Monturas](de-interes/guia-de-mascotas-mascoturas-y-monturas.md)
-* [⚔️ Guía de Sets, Dofus, Mascotas y Escudos](de-interes/guia-de-sets-dofus-mascotas-y-escudos.md)
+* [⚔️ Guía de Sets](de-interes/guia-de-sets.md)
 * [🔥 Guía de Mazmorras](de-interes/guia-de-mazmorras.md)
 * [🪓 Guía de Oficios](de-interes/guia-de-oficios.md)
 * [📈 Guías de Utilidades](de-interes/guias-de-utilidades.md)

@@ -16,14 +16,14 @@ description: >-
 * Intercambia la Travesía Lanfus por **mascotas, monturas y mascoturas**, las mejores del servidor.
 * Encuentra el NPC para iniciar la misión en **.TIENDAFUS - NPC \[Misiones/Tienda]**.
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Obtén el set Emperador/Rey Supremo:**
 
 * Reúne **fragmentos críticos, platos de fribamga y máscaras sag** en las mazmorras **Dung Mizz, Dung Pantano y Dun Sadico**.
 * Reclama el set **Emperador/Rey Supremo** de tu elemento favorito.
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Conquista la Dun Enareneda:**
 
@@ -33,7 +33,7 @@ description: >-
 * Compra los **dofus finales**, los más poderosos del servidor, con los falsos kuakua.
 * Llega a ella desde **.Shop** o desde .**Tiendafus** hablando con **el capitán Yglú**
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt="" width="527"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt="" width="527"><figcaption></figcaption></figure>
 
 **4. Equipa el set Núcleo Arcano:**
 
@@ -50,7 +50,7 @@ description: >-
 * entrégale al **emperador de los elementos fusionados** los **Regalos del Set Núcleo Arcano                          bi-elementales**
 * Al completar la misión, recibe el **Set Arcano Multi-Elemental**.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Consejos para el éxito:**
 
