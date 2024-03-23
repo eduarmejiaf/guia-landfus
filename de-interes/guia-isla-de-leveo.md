@@ -2,7 +2,7 @@
 description: 'Descripción de la isla de leveo:'
 ---
 
-# 🐉 Guía isla de Leveo
+# 🐉 Guía Isla de Leveo
 
 En esta isla, como su nombre indica, tendrás la oportunidad de aumentar el nivel de tus personajes creados en Landfus. Para acceder a esta isla, utiliza el comando ".zonas" en el chat general y elige la opción de isla de leveo. Es importante tener en cuenta que en cada encuentro en esta isla, podrás obtener entre 50,000 y 600,000 kamas como recompensa.
 
@@ -16,10 +16,10 @@ En esta isla, como su nombre indica, tendrás la oportunidad de aumentar el nive
 
     **PD:** En la ubicación donde queda la mazmorra laberinto del minotauro encontraras un NPC llamado ANTRO DE XP el cual consta de 6 mapas y en cada mapa encontraras un monstruo distinto que te darán MUCHA xp como premio al matarlos.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Entrada a la isla de leveo</p></figcaption></figure>
 
 Al llegar a la isla lo primero que encontraran son, varios NPC en el cual podrán comprar todo por kamas.
 
 Estos son: NPC de armas, de sombreros capas y mochilas, amuletos y anillos, botas y cinturones, Dofus y otros, escudos, mascotas, mascotas, dragopavos y NPC tienda por kamas donde podrán comprar los pergaminos de hechizos de clase, la gremiologema y demás ítems.
 
-Además encontraran un moob muy fácil de matar que les dará para tener un mejor comienzo como drop: set prespick y demás items de sab, set jalato + gelanillo.
+Además encontraran un moob muy fácil de matar que les dará para tener un mejor comienzo como drop: set prespick y demás items de sab, set jalató + gelanillo.

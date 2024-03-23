@@ -15,7 +15,7 @@
 
 ## DE INTERÉS
 
-* [🐉 Guía isla de Leveo](de-interes/guia-isla-de-leveo.md)
+* [🐉 Guía Isla de Leveo](de-interes/guia-isla-de-leveo.md)
 * [🪵 Guía de Recursos](de-interes/guia-de-recursos.md)
 * [🥚 Guía de Dofuces](de-interes/guia-de-dofuces.md)
 * [🦊 Guía de Mascotas, Mascoturas y Monturas](de-interes/guia-de-mascotas-mascoturas-y-monturas.md)
