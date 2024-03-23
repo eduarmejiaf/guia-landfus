@@ -76,7 +76,7 @@ La sabiduría aumenta la **experiencia obtenida** en combate y **otorga bonus de
 \
 La fuerza aumenta el daño de **hechizos de tierra y neutral**. **Incrementa la iniciativa** en 1 punto por cada punto de fuerza y  generalmente los sets de Fo **suben** el daño con **trampas** (dependiendo del set). Ideal para **personajes cuerpo a cuerpo** y builds de **trampas**.
 
-### **Inteligencia:(INT)**<img src="https://cdn.discordapp.com/emojis/1215752783072985169.webp?size=96&#x26;quality=lossless" alt=":Inteligencia:" data-size="line">
+### **Inteligencia:(INTE)**<img src="https://cdn.discordapp.com/emojis/1215752783072985169.webp?size=96&#x26;quality=lossless" alt=":Inteligencia:" data-size="line">
 
 \
 La inteligencia aumenta el daño de **hechizos de fuego** y la **efectividad de curas**. **Mejora** las defensas de **hechizos defensivos** e **incrementa la iniciativa** en 1 punto por cada punto de inteligencia. Beneficia a **magos, curanderos** y builds que combinan daño y curación.
