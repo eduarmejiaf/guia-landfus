@@ -119,7 +119,7 @@ La iniciativa es importante por varias razones:
 El **placaje** es una característica secundaria que **reduce la probabilidad de que un enemigo escape** cuando está adyacente al personaje con placaje. Esta probabilidad se calcula en base a la diferencia entre el **placaje del personaje** y la **huida del enemigo**.
 
 {% hint style="info" %}
-si el enemigo te mete placaje **perderás todos tus Pa y Pm**.
+Si el enemigo es capaz de placarte **perderás en algunos casos la mayoría de tus PA y PM.**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
@@ -177,7 +177,7 @@ el daño es un elemento fundamental del combate. Existen diversos tipos de daño
 **Fallo crítico:**
 
 * Ocurre cuando un ataque falla una probabilidad basada en la **precisión** del personaje.
-* Provoca que el **personaje pierda el turno**, pasando al siguiente jugador.
+* Provoca que el **personaje pierda el turno**, pasando al siguiente jugador si este utilizó arma cuerpo a cuerpo, si no, solo desperás los puntos de acción de la habilidad.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
