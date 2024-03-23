@@ -138,8 +138,6 @@ Un personaje con **70 de huida** es atacado por un enemigo con **100 de placaje*
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
 ## Daños:
 
 el daño es un elemento fundamental del combate. Existen diversos tipos de daño y modificadores que afectan su comportamiento. Esta guía describe en detalle las diferentes categorías de daño y sus modificadores, brindando una comprensión técnica para optimizar estrategias de ataque y defensa.
