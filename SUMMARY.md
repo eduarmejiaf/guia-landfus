@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BIENVENIDOS A LANDFUS](README.md)
+* [🦄 BIENVENIDOS A LANDFUS](README.md)
 
 ## GUÍAS PRINCIPALES
 

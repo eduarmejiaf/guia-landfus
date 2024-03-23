@@ -1,10 +1,10 @@
 ---
-description: Servidor privado de Dofus en versión 1.29 y retro 1.41
+description: Servidor privado de Dofus en versión 1.29 y Retro 1.41
 cover: .gitbook/assets/Logo Landfus 1.jpg
-coverY: -142.1848270466611
+coverY: -57.23549371332777
 ---
 
-# BIENVENIDOS A LANDFUS
+# 🦄 BIENVENIDOS A LANDFUS
 
 
 
