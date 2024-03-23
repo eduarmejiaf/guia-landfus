@@ -4,6 +4,7 @@
 
 ## GUÍAS PRINCIPALES
 
+* [Guia de estadisticas](guias-principales/guia-de-estadisticas.md)
 * [🐢 Etapa Inicial](guias-principales/etapa-inicial/README.md)
   * [🧙🏾‍♂️Etapa inicial - Monocuenta](guias-principales/etapa-inicial/etapa-inicial-monocuenta/README.md)
     * [🔅Dofus Iniciales](guias-principales/etapa-inicial/etapa-inicial-monocuenta/dofus-iniciales.md)

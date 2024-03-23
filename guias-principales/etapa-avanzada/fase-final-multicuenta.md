@@ -16,14 +16,14 @@ description: >-
 * Intercambia la Travesía Lanfus por **mascotas, monturas y mascoturas**, las mejores del servidor.
 * Encuentra el NPC para iniciar la misión en **.SHOP y 2 mapas arriba.**
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Obtén el Set Emperador/Rey Supremo:**
 
 * Reúne **fragmentos críticos, platos de fribamga y máscaras sag** en las mazmorras **Dung Mizz, Dung Pantano y Dun Sadico**.
 * Reclama el set **Emperador/Rey Supremo** de tu elemento favorito en .shop NPC Tienda emperador + Supremo
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Conquista la Dung Enareneda:**
 
@@ -33,7 +33,7 @@ description: >-
 * Compra los **dofus finales**, los más poderosos del servidor, con los falsos kuakua.
 * Llega a ella desde **.Shop** o desde .**Tiendafus** hablando con **el capitán Yglú**
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt="" width="527"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt="" width="527"><figcaption></figcaption></figure>
 
 **4. Equipa el set Núcleo Arcano:**
 
@@ -50,7 +50,7 @@ description: >-
 * Entrégale al **Emperador de los Elementos Fusionados** los **Regalos del Set Núcleo Arcano                          Bi-Elementales**
 * Al completar la misión, recibe el **Set Arcano Multi-Elemental**.
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Imagen de referencia para los Sets Monoelementales, Bi-Elementales y Multiclemental</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption><p>Imagen de referencia para los Sets Monoelementales, Bi-Elementales y Multiclemental</p></figcaption></figure>
 
 **Consejos para el éxito:**
 
