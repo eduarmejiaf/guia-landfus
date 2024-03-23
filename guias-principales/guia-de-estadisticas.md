@@ -4,7 +4,7 @@ description: >-
   fuerza, la resistencia y la eficacia de tu personaje en combate
 ---
 
-# Guia de estadisticas
+# ✨ Guia de estadisticas
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
