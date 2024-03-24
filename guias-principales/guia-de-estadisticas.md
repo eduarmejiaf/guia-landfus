@@ -6,7 +6,7 @@ description: >-
 
 # ✨ Guia de estadisticas
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;¡Desbloquea el potencial de tu personaje!
 
@@ -42,7 +42,7 @@ Al subir una característica, puedes ver los solfcaps en la interfaz del juego. 
 * **El valor actual de la característica.**
 * **El valor que tendrá la característica después de la inversión.**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Scrolls de características:**
 
@@ -53,13 +53,13 @@ Al subir una característica, puedes ver los solfcaps en la interfaz del juego. 
 * **Pergaminos de +50 y +100 puntos:** Obtén estos pergaminos para aumentar tus hechizos en **50 o 100 puntos**.
 * **Oficio de alquimista:** Crea pergaminos de hechizos con el oficio de **alquimista**. El **lino** es el ingrediente principal para la elaboración de pergaminos.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Características en Landfus:&#x20;
 
 Las **características** son atributos que definen las capacidades y habilidades de tu personaje en Landfus. Cada una tiene un impacto específico en el juego, tanto en estadísticas base como en la eficacia de hechizos y habilidades.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Vitalidad:(VIT)**<img src="https://cdn.discordapp.com/emojis/1215752774718062705.webp?size=96&#x26;quality=lossless" alt=":Vitalidad:" data-size="line">
 
@@ -112,7 +112,7 @@ La iniciativa es importante por varias razones:
 
 &#x20;**Ejemplo:** sabes cual moob de la sala es el que tiene mas daño y si tienes mas iniciativa que este moob puedes adelantarte al daño y ponerte algun tipo  protección, alejarlo de ti o huir de el mientras organizas tu estrategia.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Placaje:**<img src="https://cdn.discordapp.com/emojis/1218952464179531817.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_110131495removeb:" data-size="line">
 
@@ -122,13 +122,13 @@ El **placaje** es una característica secundaria que **reduce la probabilidad de
 Si el enemigo es capaz de placarte **perderás en algunos casos la mayoría de tus PA y PM.**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Huida:**<img src="https://cdn.discordapp.com/emojis/1218952481074057236.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_110029568removeb:" data-size="line">
 
 La **huida** es una característica secundaria que **aumenta la probabilidad de que un personaje escape** cuando está adyacente a un enemigo. Esta probabilidad se calcula en base a la diferencia entre la **huida del personaje** y el **placaje del enemigo**.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Ejemplo:**
 
@@ -136,7 +136,7 @@ Un personaje con **70 de huida** es atacado por un enemigo con **100 de placaje*
 
 **Probabilidad de escape = (70 - 100) / 100 = -0.3**
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Daños:
 
@@ -179,7 +179,7 @@ el daño es un elemento fundamental del combate. Existen diversos tipos de daño
 * Ocurre cuando un ataque falla una probabilidad basada en la **precisión** del personaje.
 * Provoca que el **personaje pierda el turno**, pasando al siguiente jugador si este utilizó arma cuerpo a cuerpo, si no, solo desperás los puntos de acción de la habilidad.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Los puntos de características y el bonificador de daños:&#x20;
 
@@ -207,7 +207,7 @@ Siguiendo el ejemplo anterior, si un golpe tiene un valor de 100 y el jugador ti
 
 **Golpe final = 100 + 60 = 160**
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Resistencias:
 
@@ -217,13 +217,13 @@ Siguiendo el ejemplo anterior, si un golpe tiene un valor de 100 y el jugador ti
 
 * **Resistencias fijas:** Reducen una cantidad fija de daño, independientemente del daño total recibido las reconoces porque  están identificadas con un + al inicio (+20 a la resistencia neutral) y en la ventana de características avanzadas aparecen como resistencia fija.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * **Resistencias porcentuales:** Reducen un porcentaje del daño total recibido las reconoces porque estas tienen un icono cuadrado con cada uno de los elementos<img src="https://cdn.discordapp.com/emojis/1218952534022951013.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_105820755removeb:" data-size="line"> <img src="https://cdn.discordapp.com/emojis/1218957217861210276.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_105859962removeb~1:" data-size="line"> <img src="https://cdn.discordapp.com/emojis/1218957019873280140.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_105935997removeb~1:" data-size="line"> <img src="https://cdn.discordapp.com/emojis/1218952584673493093.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_105708426removeb:" data-size="line"> <img src="https://cdn.discordapp.com/emojis/1218952551823573142.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_105747057removeb:" data-size="line"> y en la ventana de características avanzadas están señaladas por un (%).
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Funcionamiento de las resistencias porcentuales:**
 
@@ -261,19 +261,19 @@ Un personaje con **24 resistencias fijas a tierra** recibe un ataque de **1000 p
 
 Las resistencias fijas son **más efectivas** contra **ataques de bajo daño**. Su principal ventaja es que **anulan completamente** el daño de ataques que sean **inferiores a su valor**.Las resistencias fijas son especialmente **valiosas en PvP**, donde los ataques suelen ser de **menor daño**. En este contexto, las resistencias fijas pueden **anular una gran cantidad de daño** a lo largo de un combate.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Eficiencia de las resistencias:**
 
 Las resistencias **no son una defensa infalible**. Si un enemigo inflige un daño **mucho mayor** a tu resistencia, aún puedes recibir un daño considerable.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Reenvío de daños:&#x20;
 
 **El reenvío de daños** es una mecánica en  que permite a un personaje **devolver una parte del daño recibido** a su atacante. Esta mecánica puede ser una herramienta poderosa para **disuadir a los enemigos** y **protegerse de ataques fuertes también hay hechizos que permiten aumentar esta tasa de reenvió de daño como en caso de los fecas con su habilidad "reenvió de hechizos" reenviando un hechizo que provoque perdida de PDV o Pa**.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Funcionamiento:**
 
@@ -310,7 +310,7 @@ Las curaciones son una mecánica fundamental en Landfus que permite **restaurar 
 * **Sadidas:** Poseen algunas habilidades de curación, principalmente a través de hechizos de plantas.
 * **Hechizo elemental Zanahowia:** Otorga la capacidad de curar a cualquier personaje que lo lance.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Factores que afectan la curación:**
 
@@ -345,7 +345,7 @@ La **esquiva de PA** es una estadística que reduce la probabilidad de que un en
 
 La **esquiva de PM** es una estadística que reduce la probabilidad de que un enemigo te golpee con un hechizo que consume Puntos de Movimiento (PM)
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Alcance <img src="../.gitbook/assets/image (139).png" alt="" data-size="line">
 
