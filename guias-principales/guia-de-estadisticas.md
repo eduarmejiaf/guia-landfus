@@ -337,12 +337,69 @@ Un **Aniripsas** con 400 de inteligencia y +15 de bonus de curaciones utiliza un
 
 **Curación final = 100 - 140**
 
-**Esquiva de PA:**
+## **Esquiva de PA:**
 
 La **esquiva de PA** es una estadística que reduce la probabilidad de que un enemigo te golpee con un hechizo que consume Puntos de Acción (PA).
 
-**Esquiva de PM:**
+## **Esquiva de PM:**
 
 La **esquiva de PM** es una estadística que reduce la probabilidad de que un enemigo te golpee con un hechizo que consume Puntos de Movimiento (PM)
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+## Alcance <img src="../.gitbook/assets/image (139).png" alt="" data-size="line">
+
+El **alcance o rango** en Dofus es la distancia máxima a la que un personaje puede realizar una acción, ya sea un ataque, un hechizo o una interacción con un objeto. Se mide en **casillas**, las unidades cuadradas que conforman el mapa del juego.
+
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+
+**Tipos de Alcance:**
+
+* **Alcance cuerpo a cuerpo:** Permite realizar acciones adyacentes al personaje.
+* **Alcance a distancia:** Permite realizar acciones a una distancia específica del personaje.
+* **Alcance de línea:** Permite realizar acciones en una línea recta desde el personaje.
+* **Alcance de área:** Permite realizar acciones en un área alrededor del personaje.
+
+**Importancia del Alcance:**
+
+El alcance es un factor crucial en el combate, ya que determina la posición del personaje en relación a sus enemigos y aliados. Un buen posicionamiento puede ser la diferencia entre la victoria y la derrota.
+
+**Modificadores de Alcance:**
+
+Existen diversos objetos, habilidades y hechizos que pueden modificar el alcance de un personaje, ya sea aumentándolo o disminuyéndolo.
+
+## Invocaciones y Bonus de Criaturas Invocables<img src="https://cdn.discordapp.com/emojis/1218952609801572452.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_105437942removeb~1:" data-size="line">
+
+Las clases con capacidad de invocar criaturas solo pueden tener una activa en el campo a la vez. Sin embargo, el bonus de criaturas invocables permite aumentar este límite.
+
+**Ejemplo:** Un personaje con un bonus de +3 criaturas invocables puede tener hasta 4 invocaciones activas al mismo tiempo (1 + 3).
+
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+
+## Buffs y Debuffs: Definición y Efectos
+
+**Buffs:** Son efectos positivos que aumentan las características o habilidades de un personaje, como su ataque, defensa, velocidad o salud. Los buffs pueden ser temporales o permanentes, y pueden provenir de diversas fuentes, como habilidades, objetos o pociones.
+
+**Debuffs:** Son efectos negativos que disminuyen las características o habilidades de un personaje. Al igual que los buffs, pueden ser temporales o permanentes, y pueden provenir de diversas fuentes.
+
+**Ejemplos de Buffs:**
+
+* Aumento de la  daño de ataque
+* Aumento de puntos de  movimiento
+* Regeneración de salud
+* Inmunidad a ciertos tipos de daño
+
+**Ejemplos de Debuffs:**
+
+* Reducción de resistencias
+* Robo de puntos de movimiento
+* Robo de puntos de acción&#x20;
+* Envenenamiento
+
+Estos efectos los podrás visualizar en la batalla cuando pones el cursor sobre tu personaje, un aliado o el enemigo, duran una cantidad de turnos específicos y también pueden ser modificados por habilidades que los remuevan .
+
+Dependiendo si en el logo hay un (+) o un (-) podras identificar si es un buff o un Debuff &#x20;
+
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="88">Simbolo</th><th>Efecto </th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (142).png" alt="" data-size="original"></td><td>Todo aquello relacionado con los <a href="guia-de-estadisticas.md#puntos-de-accion-pa"><strong>Puntos de acció</strong></a><strong>n</strong> (perdidad de Pa, ganancias de Pa) </td></tr><tr><td><img src="../.gitbook/assets/image (141).png" alt="" data-size="original"></td><td>Todos aquello relacionado  a los<a href="guia-de-estadisticas.md#danos"> <strong>daños</strong></a>  (auamneto de resistencias fijas, aumento de daños, perdida de daños </td></tr><tr><td><img src="../.gitbook/assets/image (145).png" alt="" data-size="original"></td><td>Todo lo relacionando con las afectaciones directas  de la <a href="guia-de-estadisticas.md#vitalidad-vit"><strong>Vitalidad</strong> </a></td></tr><tr><td><img src="../.gitbook/assets/image (139).png" alt="" data-size="original"></td><td>Reducción o aumento de <a href="guia-de-estadisticas.md#alcance"><strong>alcance</strong></a></td></tr><tr><td><img src="../.gitbook/assets/image (143).png" alt="" data-size="original"></td><td>todo aquello relacionado   <a href="guia-de-estadisticas.md#puntos-de-movimiento-pm"><strong>al movimiento</strong></a> (perdida de Pm, Ganancia de Pm, estado pesado)</td></tr><tr><td><img src="../.gitbook/assets/image (144).png" alt="" data-size="original"></td><td>Aumento de <a href="guia-de-estadisticas.md#invocaciones-y-bonus-de-criaturas-invocables"><strong>criaturas Invocables</strong> </a></td></tr><tr><td><img src="../.gitbook/assets/image (146).png" alt="" data-size="original"></td><td>Todo aquello relacionado a los <a href="guia-de-estadisticas.md#criticos">críticos </a></td></tr><tr><td><img src="../.gitbook/assets/image (147).png" alt="" data-size="original"></td><td>Todo aquello relacionado a los<a href="guia-de-estadisticas.md#curaciones"> PDV</a> (envenenamientos o curaciones)</td></tr><tr><td><img src="../.gitbook/assets/image (149).png" alt="" data-size="original"></td><td>Todo aquello relacionado ala variación de las resistencias Porcentuales<a href="guia-de-estadisticas.md#funcionamiento-de-las-resistencias-porcentuales"> (%)</a></td></tr></tbody></table>
