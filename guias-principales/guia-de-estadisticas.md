@@ -396,7 +396,7 @@ Las clases con capacidad de invocar criaturas solo pueden tener una activa en el
 * Robo de puntos de acción&#x20;
 * Envenenamiento
 
-Estos efectos los podrás visualizar en la batalla cuando pones el cursor sobre tu personaje, un aliado o el enemigo, duran una cantidad de turnos específicos y también pueden ser modificados por habilidades que los remuevan .
+Estos efectos los podrás visualizar en la batalla cuando pones el cursor sobre tu personaje, un aliado o el enemigo, duran una cantidad de turnos específicos y también pueden ser modificados por habilidades que los remuevan como el disipar de los Aniripsa.
 
 Dependiendo si en el logo hay un (+) o un (-) podras identificar si es un buff o un Debuff &#x20;
 
