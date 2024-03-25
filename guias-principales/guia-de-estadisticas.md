@@ -44,6 +44,8 @@ Al subir una característica, puedes ver los solfcaps en la interfaz del juego. 
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+
 ### **Scrolls de características:**
 
 * **Comando .scroll:** Usa el comando ".scroll" en el juego para **subir al máximo** todas tus características de forma instantánea.
