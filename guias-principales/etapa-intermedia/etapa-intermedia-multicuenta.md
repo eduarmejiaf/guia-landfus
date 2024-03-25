@@ -11,28 +11,28 @@ En esta etapa, tú y tu equipo ya dominan las mecánicas básicas del juego y es
 
 **Conquistando las mazmorras intermedias:**
 
-* **Set inmortal:** Demuestra tu destreza en las mazmorras **fantasma, skonk, pandora y dragocedro**. Cada una te dará la oportunidad de obtener piezas de este codiciado set que te brindará una notable mejora en tus estadísticas.
+* [**Set inmortal:**](../../de-interes/guia-de-sets-bonus.md#set-inmortal-obtenido-en-las-mazmorras-skonk-dragocerdo-y-fantasma-pandora) Demuestra tu destreza en las mazmorras **fantasma, skonk, pandora y dragocedro**. Cada una te dará la oportunidad de obtener piezas de este codiciado set que te brindará una notable mejora en tus estadísticas.
 *
 
     <figure><img src="../../.gitbook/assets/imagen_2024-03-08_200550524.png" alt=""><figcaption></figcaption></figure>
-* **Dofus:** Refuerza tu estrategia con **dofus específicos** que se ajustan a tu elemento en las mazmorras de los campos y las llanuras.
+* **Dofus:** Refuerza tu estrategia con **dofus específicos** que se ajustan a tu elemento en las mazmorras de los [campos y las llanuras.](../../de-interes/guia-de-dofuces.md#dofus-etapa-intermedia)
 *
 
     <figure><img src="../../.gitbook/assets/imagen_2024-03-08_200757017.png" alt=""><figcaption></figcaption></figure>
-* **Mascotas:** Aumenta tu compañía y tus habilidades con **kramsito** o **kram kram**, dos adorables mascotas que puedes obtener en las mazmorras difíciles.
+* **Mascotas:** Aumenta tu compañía y tus habilidades con [**kramsito** o **kram kram**,](../../de-interes/guia-de-mascotas-mascoturas-y-monturas.md#mascotas-y-mascoturas-fase-intermedia) dos adorables mascotas que puedes obtener en las mazmorras difíciles.
 *
 
     <figure><img src="../../.gitbook/assets/imagen_2024-03-08_200931687.png" alt=""><figcaption></figcaption></figure>
 
 **Explorando más allá:**
 
-* **Mazmorra de peluches:** ¡Diviértete y completa esta mazmorra para obtener peluches de tofu, jalato o blob! Canjéalos en la tienda por el set que mejor se adapte a tu estilo de juego y maximiza tu potencial.
+* **Mazmorra de peluches:** ¡Diviértete y completa esta mazmorra para obtener[ peluches de tofu, jalato o blob!](../../de-interes/guia-de-recursos.md) Canjéalos en la tienda por el [set ](../../de-interes/guia-de-sets-bonus.md#sets-obtenidos-con-peluches-mazmorra-de-los-peluches)que mejor se adapte a tu estilo de juego y maximiza tu potencial.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen_2024-03-08_201545016.png" alt="" width="557"><figcaption><p>(algunas partes de set peluche)</p></figcaption></figure>
 
-* **Escudo "anticoronavirus":** Protege tu estilo con este peculiar escudo que puedes obtener farmeando **peluches de medilubo** en la zona de chapas.
+* **Escudo "anticoronavirus":** Protege tu estilo con este peculiar escudo que puedes obtener farmeando [**peluches de medilubo**](../../de-interes/guia-de-recursos.md) en la zona de chapas.
 
 <figure><img src="../../.gitbook/assets/imagen_2024-03-08_201723016.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,8 +50,8 @@ En esta etapa, tú y tu equipo ya dominan las mecánicas básicas del juego y es
 
 * **Mazmorra Beso Negro:** Esta mazmorra legendaria te pondrá a prueba con enemigos desafiantes y mecánicas complejas.
   * **Requisitos:** Para entrar a la mazmorra Beso Negro, necesitas:
-    * **Set de peluches:** Completa la mazmorra de peluches y canjea los peluches de tofu, jalato o blob por el set que mejor se adapte a tu elemento.
-      * **Kramsito o Kram kram:** Consigue estas adorables mascotas en las mazmorras intermedias y difíciles.
+    * [**Set de peluches**](../../de-interes/guia-de-sets-bonus.md#sets-obtenidos-con-peluches-mazmorra-de-los-peluches)**:** Completa la mazmorra de peluches y canjea los peluches de tofu, jalato o blob por el set que mejor se adapte a tu elemento.
+      * [**Kramsito o Kram kram:**](../../de-interes/guia-de-mascotas-mascoturas-y-monturas.md#mascotas-y-mascoturas-fase-intermedia) Consigue estas adorables mascotas en las mazmorras intermedias y difíciles.
 
 **¡Enhorabuena por obtener el Dofus laravel!** Ahora estás listo para embarcarte en una nueva aventura: la misión **Velo de Tinta**.
 
@@ -82,7 +82,7 @@ En esta etapa, tú y tu equipo ya dominan las mecánicas básicas del juego y es
 
 ¡**Un nuevo desafío te espera!**
 
-En el servidor intermedio, algunos **dofus y armas** que son esenciales para tu progreso pueden adquirirse con **ogrinas**. No te preocupes, ¡no es necesario invertir dinero real para obtenerlas! El juego te ofrece **diversas formas de ganar ogrinas** sin necesidad de donar.
+En el servidor intermedio, algunos **dofus y armas** que son esenciales para tu progreso pueden adquirirse con [**ogrinas**.](../../de-interes/guia-de-ogrinas.md) No te preocupes, ¡no es necesario invertir dinero real para obtenerlas! El juego te ofrece **diversas formas de ganar ogrinas** sin necesidad de donar.
 
 {% hint style="info" %}
 Todo se encuentra explicado en la pagina de ogrinas
