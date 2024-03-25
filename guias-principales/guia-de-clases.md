@@ -274,6 +274,10 @@ estrategia:&#x20;
 
 Los guerreros zurcaráks son unos jugadores empedernidos capaces incluso de arriesgar una de sus siete vidas por una simple apuesta. Un buen zurcarák no lo dudará un segundo, si tiene que jugarse el pellejo para llevarse el premio gordo, lanzará los dados al aire para ganar el combate... aunque, a veces, la suerte es traicionera y ¡¡puede que lo pierda todo!!
 
+{% hint style="info" %}
+_El Zurcarák es un_ [_bifronte_](http://en.wikipedia.org/wiki/es:bifronte) _de Cara y Cruz. Proviene del pilface, que a su vez es el término corto de "pile ou face", cara o cruz en francés._
+{% endhint %}
+
 **Estrategia**
 
 **El Zurcarák** es Un hechicero enigmático que canaliza el poder del azar para infligir daño devastador. Su estilo de juego se basa en la gestión del riesgo y la recompensa, utilizando hechizos de probabilidad variable para sorprender y eliminar a sus enemigos o en su defecto usar correctamente sus hechizos de movimiento para reposicionarse por si los resultados del azar son negativos&#x20;
