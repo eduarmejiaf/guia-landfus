@@ -11,7 +11,7 @@ description: >-
 
 1. [Creación del personaje](../../guia-de-clases.md):&#x20;
 
-Es recomendable que seleccionen la raza que más se ajuste a sus preferencias entre las doce disponibles en Landfus. En términos de practicidad y funcionalidad, se sugiere considerar al [Ocra ](../../guia-de-clases.md#el-alcance-del-ocra)del elemento fuego/inteligencia 🔥 como la opción óptima para iniciar su aventura.
+Es recomendable que seleccionen la raza que más se ajuste a sus preferencias entre las doce disponibles en Landfus. En términos de practicidad y funcionalidad, se sugiere considerar al [Ocra ](../../guia-de-clases.md#el-alcance-del-ocra)del elemento [fuego/inteligencia](../../guia-de-estadisticas.md#inteligencia-inte) 🔥 como la opción óptima para iniciar su aventura.
 
 <div>
 
