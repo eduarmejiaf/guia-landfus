@@ -4,7 +4,7 @@
 
 ## GUÍAS PRINCIPALES
 
-* [✨ Guia de estadisticas](guias-principales/guia-de-estadisticas.md)
+* [✨ Guia de Estadisticas](guias-principales/guia-de-estadisticas.md)
 * [🔰 Guía de Clases](guias-principales/guia-de-clases.md)
 * [🐢 Etapa Inicial](guias-principales/etapa-inicial/README.md)
   * [🧙🏾‍♂️Etapa inicial - Monocuenta](guias-principales/etapa-inicial/etapa-inicial-monocuenta/README.md)
