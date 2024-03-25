@@ -48,5 +48,5 @@ Consejo: Ir al apartado de [\[Guia isla de leveo\] ](../../../de-interes/guia-is
 {% endhint %}
 
 {% hint style="info" %}
-Tip: Suban todos sus puntos de [caracteristicas](../../guia-de-estadisticas.md) a[ sabiduria ](../../guia-de-estadisticas.md#sabiduria-sab)para subir mas rápido de nivel y utilicen el comando .scroll para tener 101 + a todos los elementos.
+Tip: Suban todos sus puntos de [caracteristicas](../../guia-de-estadisticas.md) a[ sabiduria ](../../guia-de-estadisticas.md#sabiduria-sab)para subir mas rápido de nivel y utilicen el comando[ .scroll ](../../guia-de-estadisticas.md#scrolls-de-caracteristicas)para tener 101 + a todos los elementos.
 {% endhint %}
