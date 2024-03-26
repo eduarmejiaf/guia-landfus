@@ -223,9 +223,7 @@ Para subir tu oficio de forjamagia al nivel 100 de forma rápida y eficiente, pu
 * Introduce la cantidad de runas que deseas aplicar.
 * Haz clic en "Fusionar todo" y deja que el proceso se ejecute automáticamente.
 
-<figure><img src="../.gitbook/assets/Tarjeta Cuadrada Feliz Cumpleaños Ilustrado Rosa.gif" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Tarjeta Cuadrada Feliz Cumpleaños Ilustrado Rosa (1).gif" alt=""><figcaption></figcaption></figure>
 
 **4. Repite el proceso:**
 
