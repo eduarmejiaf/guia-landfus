@@ -14,7 +14,7 @@ Para aprender el  oficio debes ir a .zonas ---> casa de oficios y allí encontra
 
 &#x20;&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Niveles del oficio&#x20;
 
@@ -83,7 +83,7 @@ Para intercambiar o comprar con el recurso que recolectes en landfus hay 2 NPC e
 
 ### **Alquimista:**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Descripción:** El alquimista crea pociones, pergaminos y otros objetos mágicos a partir de ingredientes recolectados.
 * **Beneficios:** Los alquimistas pueden canjear pergaminos que otorgan  niveles de hechizo.
@@ -190,3 +190,56 @@ Con el oficio pescador puede intercambiar los siguientes Objetos&#x20;
 
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Caja de lupas de la perfección</strong></p><p><img src="../.gitbook/assets/image (306).png" alt="" data-size="original"> </p></td><td>Esta caja contiene 15 lupas de la perfección                                 <strong>costo: 80</strong><img src="../.gitbook/assets/image (307).png" alt="" data-size="line">(Trucha)</td><td></td></tr><tr><td><strong>Caja de lupas de la perfección Vip</strong></td><td><img src="../.gitbook/assets/image (306).png" alt="" data-size="original"></td><td>Esta caja contiene 30 lupas de la perfección                                 <strong>costo: 60</strong> <img src="../.gitbook/assets/image (308).png" alt="" data-size="line"> (Lubina mericana)</td></tr></tbody></table>
+
+## Forja magia&#x20;
+
+**La forjamagia** es un arte ancestral en Dofus que permite **mejorar** [**las características**](../guias-principales/guia-de-estadisticas.md) de diversos objetos equipados por nuestros personajes. Esta práctica combina la **aritmética** y el **azar** para lograr resultados óptimos, satisfaciendo las necesidades del usuario final.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**Herramientas**
+
+Para desempeñar los oficios de la forja magia es necesario  primero aprenderlos oficios con el entrenador de forjamagia luego con el vendedor de objeto debemos comprar el cortacueros de zapateromago que nos servirá para mejorar botas y cinturones,  engastador del joyeromago  que nos servirá para mejorar anillos y amuletos, por ultimo debemos adquirir la aguja de sastremago que nos permitirá mejorar sombreros y capas, cada una de estas herramientas tiene un costo de 10.000<img src="https://cdn.discordapp.com/emojis/1215392450944835624.webp?size=160&#x26;quality=lossless" alt=":Kamas:" data-size="line">.      Con el vendedor de objetos también encontraremos las runas que son los objetos que nos permitiran mejorar nuestras[ estadísticas ](../guias-principales/guia-de-estadisticas.md)
+
+Los talleres de forjamago es donde tienen lugar la realización de estos oficios, encontrando uno en Bonta, otro en Brakmar para llegar a ellos solo debes escribir **.zonas** y buscar entre los lugares "taller forja bota" o "taller forja brak".
+
+**Subir de nivel el oficios de forja magia**&#x20;
+
+Para subir tu oficio de forjamagia al nivel 100 de forma rápida y eficiente, puedes seguir estos pasos:
+
+**1. Elige un set:**
+
+* Busca una parte de un set que se mejore con el oficio de forjamagia que deseas subir.Selecciona  como por ejemplo unas botas de Nivel 1 las puedes encontrar en **.shop**
+
+**2. Compra runas:**
+
+* Adquiere una gran cantidad de runas  con las características que que quieras, Puedes comprar las runas con el NPC vendedor de objetos ubicado en la casa de los oficios o en cada uno de los talleres, las runas tienen un costo de 1 <img src="https://cdn.discordapp.com/emojis/1215392450944835624.webp?size=160&#x26;quality=lossless" alt=":Kamas:" data-size="line"> por lo que son bastante accesibles.
+
+**3. Forjamagia automático:**
+
+* Dirígete a un taller de forjamagia.
+* Selecciona la  mesa de trabajo de tu  forjamagia recuerda tener equipa la herramienta que requiere tu oficio.
+* Elige la parte del set que deseas mejorar y las runas que deseas usar.
+* Introduce la cantidad de runas que deseas aplicar.
+* Haz clic en "Fusionar todo" y deja que el proceso se ejecute automáticamente.
+
+<figure><img src="../.gitbook/assets/Tarjeta Cuadrada Feliz Cumpleaños Ilustrado Rosa.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+**4. Repite el proceso:**
+
+* Repite los pasos anteriores hasta que alcances el nivel 100 en tu oficio de forjamagia.
+
+### Runas
+
+existen runas para cada una de las diferentes características que todos los objetos que podemos portar nos otorgan.\
+En este apartado hablaré de los aspectos fundamentales de las runas, que son:
+
+* La cantidad de puntos de la característica que otorga.
+* Su eficacia, que no es más que la probabilidad de que la runa entre de manera exitosa según la cantidad de puntos de característica asociada a dicha runa
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+

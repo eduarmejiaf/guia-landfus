@@ -42,7 +42,7 @@ Al subir una característica, puedes ver los solfcaps en la interfaz del juego. 
 * **El valor actual de la característica.**
 * **El valor que tendrá la característica después de la inversión.**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
