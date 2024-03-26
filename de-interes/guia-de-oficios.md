@@ -239,5 +239,36 @@ En este apartado hablaré de los aspectos fundamentales de las runas, que son:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+Existen runas para mejorar cada una de las [Características](../guias-principales/guia-de-estadisticas.md) disponibles en dofus (resistencias porcentuales, fijas, [vitalidad, inte, agi, fo, cha, vitalidad](../guias-principales/guia-de-estadisticas.md#caracteristicas-en-landfus),  [esquivas,](../guias-principales/guia-de-estadisticas.md#esquiva-de-pa) [críticos](../guias-principales/guia-de-estadisticas.md#criticos), [prospeccion](../guias-principales/guia-de-estadisticas.md#suerte-cha), [criaturas invocables,](../guias-principales/guia-de-estadisticas.md#invocaciones-y-bonus-de-criaturas-invocables) [alcance](../guias-principales/guia-de-estadisticas.md#alcance), [daños](../guias-principales/guia-de-estadisticas.md#danos),[ iniciativa](../guias-principales/guia-de-estadisticas.md#la-iniciativa-ini), [daños con trampas](../guias-principales/guia-de-estadisticas.md#danos),[ Pa](../guias-principales/guia-de-estadisticas.md#puntos-de-accion-pa) y [Pm](../guias-principales/guia-de-estadisticas.md#puntos-de-movimiento-pm))&#x20;
 
+### **Probabilidades**&#x20;
+
+cada runa según  la cantidad de [características](../guias-principales/guia-de-estadisticas.md) que ofrezca tiene  diferente probabilidades en sus efectos.
+
+existen 4 tipo de efectos en la forja magia:
+
+<mark style="color:blue;">**\[Éxito Critico] = N%**</mark>
+
+<mark style="color:green;">**\[Éxito Normal] = N%**</mark>
+
+<mark style="color:orange;">**\[Fallo Normal] = N%**</mark>
+
+<mark style="color:red;">**\[Fallo Critico] = N%**</mark>
+
+Cada objeto magueable dentro de Landfus tiene  unas probabilidad de de que salga exitoso la introducción de la runa si el objeto te dice que tiene 0% en los éxitos  significa que no puedes introducir la runa que le quieres poner a tu set  o si por el contrario  después de poner varias veces la runa luego sale 0% en los éxitos significa que llegaste al tope permitido de esa estadística.
+
+Durante este proceso  algunas estadísticas pueden desaparecer del objeto pero no te preocupes las podrás recuperar fácilmente usando lupas de la perfección.
+
+### **Estrategia de Magueo.**
+
+Este tutorial explica una estrategia para maguear objetos en un juego, la cual ha sido compartida por un jugador. Es importante tener en cuenta que no es la única estrategia posible, y que pueden existir otras formas de maguear con éxito.
+
+* **Utilizar runas que den fallos críticos:** Estas runas aumentan la probabilidad de que una runa falle al ser añadida al objeto. Esto puede ser útil para dejar el objeto sin estadísticas antes de añadir las runas que deseas.
+* **Dejar el objeto sin estadísticas:** Antes de añadir las runas que deseas, es recomendable dejar el objeto sin ninguna otra estadística. Esto facilita la introducción de las nuevas runas.
+* **Añadir las runas:** Si la runa que deseas añadir es una estadística que ya tenía el objeto, se introducirá con mayor facilidad. Si la runa no forma parte del set de estadísticas del objeto, primero se debe introducir esa runa hasta la cantidad permitida y luego la que sí forma parte del set.
+* **Lupear el objeto:** Una vez que hayas añadido las runas que deseas, utiliza una lupa para revertir el objeto a su estado original.
+
+El método de magueo descrito anteriormente utiliza las lupas de manera eficiente, ya que solo se necesitan una vez para revertir el objeto a su estado original después de haber añadido las runas deseadas.
+
+Al dejar el objeto sin estadísticas antes de añadir las runas, se reduce la probabilidad de que una runa falle al ser añadida. Esto significa que se necesitan menos reintentos y, por lo tanto, se reduce el consumo de lupas.
 
