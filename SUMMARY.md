@@ -30,7 +30,7 @@
 
 ***
 
-* [👀 REGLAS](reglas.md)
+* [👀 Guía de Reglas](guia-de-reglas.md)
 
 ## STAFF
 

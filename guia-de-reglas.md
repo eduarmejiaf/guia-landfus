@@ -1,6 +1,6 @@
-# 👀 REGLAS
+# 👀 Guía de Reglas
 
-## REGLAS DE BUENA CONDUCTA QUE DEBEMOS RESPETAR IMPERATIVAMENTE CUENTAS, PERSONAJES, NOMBRES Y APODOS
+**Reglas de buena conducta que debemos respetar imperativamente; cuentas, personajes, nombres y apodos**
 
 <figure><img src=".gitbook/assets/Yellow and Black Illustrative Esports The Lion King Logo.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ Para evitar posibles abusos (utilización de la cuenta prestada para cometer inf
 \
 La venta, compra, intercambio y regalo de cuentas están prohibidos. Las cuentas son propiedad de Landfus y por eso no se puede sacar ningún beneficio de ellas, ya sea en moneda real o virtual (Kamas y Puntos VIP). Además, una cuenta está asociada a datos personales y es no es prudente divulgarlos. El propietario original de la cuenta siempre será el responsable de las acciones de su personaje.
 
-## RESPETO A LOS DEMÁS JUGADORES
+## Respeto a los demás jugadores
 
 **NORMAS :**\
 Se exigen formas adecuadas con el fin de conservar un ambiente distendido en los servidores. La vulgaridad, los insultos, la apología del terrorismo o de prácticas ilegales, los discursos racistas, xenófobos, homófobos, el lenguaje sexual y, en general, el uso de palabras fuera de lugar está prohibido.\
@@ -33,7 +33,7 @@ Salvo los servidores internacionales, cada servidor está asociado a una lengua 
 De forma general, está prohibido perjudicar el buen desarrollo del juego por parte de los demás jugadores.\
 
 
-## TRAMPAS | 💀
+## Trampas | 💀
 
 **NORMAS :**\
 Es ilegal abusar de un bug del juego. Cualquier anomalía debe notificarse al soporte en la sección correspondiente.\
@@ -42,7 +42,7 @@ Es ilegal abusar de un bug del juego. Cualquier anomalía debe notificarse al so
 \- Está prohibido modificar el cliente. Esto engloba todos los archivos del directorio de instalación del juego.\
 La utilización de dos o más cuentas por parte de un mismo jugador en combates de jugador contra jugador, de recaudador, de prisma, de alianza contra alianza está prohibida.
 
-## LISTA DE LAS ACCIONES QUE PUEDEN EJECUTARSE A RAÍZ DE UNA INFRACCIÓN LA ADVERTENCIA
+## Lista de las acciones que pueden ejecutarse a raíz de una infracción la advertencia
 
 **NORMAS :**\
 Para determinadas infracciones, el jugador recibirá una advertencia para informarle de las reglas y avisarle de que se arriesga a una sanción. Esta advertencia la pueden enviar los moderadores directamente en el juego o mediante un e-mail de parte de Landfus. No expira y se considera que el jugador la ha leído y comprendido.\
