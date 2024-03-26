@@ -14,7 +14,7 @@ Para aprender el  oficio debes ir a .zonas ---> casa de oficios y allí encontra
 
 &#x20;&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Niveles del oficio&#x20;
 
@@ -72,6 +72,12 @@ Para utilizar los oficios en Dofus, es necesario tener equipada la herramienta a
 * Cada bandera verde te muestra la **cantidad de recursos** que puedes obtener en ese lugar.
 
 <figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+
+El paquete VIP de 7 días es una opción alternativa para obtener recursos en el juego. Por un costo de 800 sobrinas, este paquete te da acceso al comando .**Farmer**, que dará **Acceso a las islas de farmeo:** Las islas de farmeo son zonas especiales donde obtienes gran cantidad de recursos.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Intercambiar  los recursos
 
@@ -195,7 +201,7 @@ Con el oficio pescador puede intercambiar los siguientes Objetos&#x20;
 
 **La forjamagia** es un arte ancestral en Dofus que permite **mejorar** [**las características**](../guias-principales/guia-de-estadisticas.md) de diversos objetos equipados por nuestros personajes. Esta práctica combina la **aritmética** y el **azar** para lograr resultados óptimos, satisfaciendo las necesidades del usuario final.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Herramientas**
 
@@ -237,7 +243,7 @@ En este apartado hablaré de los aspectos fundamentales de las runas, que son:
 * La cantidad de puntos de la característica que otorga.
 * Su eficacia, que no es más que la probabilidad de que la runa entre de manera exitosa según la cantidad de puntos de característica asociada a dicha runa
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Existen runas para mejorar cada una de las [Características](../guias-principales/guia-de-estadisticas.md) disponibles en dofus (resistencias porcentuales, fijas, [vitalidad, inte, agi, fo, cha, vitalidad](../guias-principales/guia-de-estadisticas.md#caracteristicas-en-landfus),  [esquivas,](../guias-principales/guia-de-estadisticas.md#esquiva-de-pa) [críticos](../guias-principales/guia-de-estadisticas.md#criticos), [prospeccion](../guias-principales/guia-de-estadisticas.md#suerte-cha), [criaturas invocables,](../guias-principales/guia-de-estadisticas.md#invocaciones-y-bonus-de-criaturas-invocables) [alcance](../guias-principales/guia-de-estadisticas.md#alcance), [daños](../guias-principales/guia-de-estadisticas.md#danos),[ iniciativa](../guias-principales/guia-de-estadisticas.md#la-iniciativa-ini), [daños con trampas](../guias-principales/guia-de-estadisticas.md#danos),[ Pa](../guias-principales/guia-de-estadisticas.md#puntos-de-accion-pa) y [Pm](../guias-principales/guia-de-estadisticas.md#puntos-de-movimiento-pm))&#x20;
 
