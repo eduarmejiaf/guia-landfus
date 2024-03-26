@@ -25,7 +25,7 @@ Para aprender el  oficio debes ir a .zonas ---> casa de oficios y allí encontra
 * **Mayor cantidad de recursos:** Obtendrás más recursos por cada cosecha.
 * **Mayor velocidad de recolección:** Podrás cosechar recursos más rápido.
 
-## ¿Cómo uso mi oficio?
+## Cómo usar los oficios
 
 Para utilizar los oficios en Dofus, es necesario tener equipada la herramienta adecuada para el oficio que deseas realizar. Una vez que tengas la herramienta equipada, puedes:
 
@@ -49,7 +49,31 @@ Para utilizar los oficios en Dofus, es necesario tener equipada la herramienta a
 
 <figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
-## ¿Cómo puedo intercambiar mis recursos?
+## Como encontrar los recursos
+
+**Olvídate de búsquedas tediosas y mapas confusos.** En Landfus, encontrar los recursos que necesitas es tan sencillo como usar la **pestaña de geoposición**:
+
+**1. Abre la pestaña:**
+
+* Busca el ícono de la **brújula** en la parte inferior derecha de tu pantalla.
+* Haz clic en el ícono para abrir la pestaña de geoposición.
+
+<figure><img src="../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+
+**2. Busca el recurso:**
+
+* En la barra de búsqueda, en la parte superior izquierda busca el recurso que necesitas Por ejemplo, si necesitas madera de fresno , busca el "fresno".
+
+<figure><img src="../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+
+**3. Sigue las banderas verdes:**
+
+* El mapa se llenará de **banderas verdes** que indican la ubicación de los recursos que buscas.
+* Cada bandera verde te muestra la **cantidad de recursos** que puedes obtener en ese lugar.
+
+<figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+
+## &#x20;intercambiar  los recursos
 
 para intercambiar o comprar con el recurso que recolectes en landfus hay 2 NPC el primero es el de la tienda de recursos con el pueden comprar todo lo que sea de denominación objetos se caracteriza por tener ropa naranja, el segundo es el vendedor de pergaminos con el puedes comprar todo lo relacionado a pergaminos como invocaciones o pergaminos de Hechizo.&#x20;
 
