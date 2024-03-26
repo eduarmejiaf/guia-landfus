@@ -180,7 +180,7 @@ Puedes intercambiar con hierro los siguientes objetos:
 
 <figure><img src="../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 
-Caña telescópica: \
+**Caña telescópica:** \
 
 
 <figure><img src="../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
