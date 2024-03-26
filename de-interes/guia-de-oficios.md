@@ -73,9 +73,9 @@ Para utilizar los oficios en Dofus, es necesario tener equipada la herramienta a
 
 <figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
-## &#x20;intercambiar  los recursos
+## Intercambiar  los recursos
 
-para intercambiar o comprar con el recurso que recolectes en landfus hay 2 NPC el primero es el de la tienda de recursos con el pueden comprar todo lo que sea de denominación objetos se caracteriza por tener ropa naranja, el segundo es el vendedor de pergaminos con el puedes comprar todo lo relacionado a pergaminos como invocaciones o pergaminos de Hechizo.&#x20;
+Para intercambiar o comprar con el recurso que recolectes en landfus hay 2 NPC el primero es el de la tienda de recursos con el pueden comprar todo lo que sea de denominación objetos se caracteriza por tener ropa naranja, el segundo es el vendedor de pergaminos con el puedes comprar todo lo relacionado a pergaminos como invocaciones o pergaminos de Hechizo.&#x20;
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -92,7 +92,7 @@ para intercambiar o comprar con el recurso que recolectes en landfus hay 2 NPC e
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="137"><figcaption></figcaption></figure>
 
-&#x20;puedes intercambiar  con  lino los siguientes objetos.
+&#x20;Puedes intercambiar  con  lino los siguientes objetos.
 
 
 
@@ -132,7 +132,7 @@ puedes intercambiar con trigo los siguientes objetos
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Pergamino del hechizo Bumerang pérfido</strong></td><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td><p>este pergamino te permitirá aprender el hechizo de  de Bumerang pérfido     <strong>Costo:1000</strong><img src="../.gitbook/assets/image (299).png" alt="" data-size="line"></p><p></p><p>           </p></td></tr><tr><td><strong>Pergamino del hechizo Captura de alma</strong></td><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td>este pergamino te permitirá aprender el hechizo de Captura de alma                           <strong>Costo:1500</strong><img src="../.gitbook/assets/image (299).png" alt="" data-size="line"></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Pergamino del hechizo Bumerang pérfido</strong></td><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td><p>Este pergamino te permitirá aprender el hechizo de  de Bumerang pérfido     <strong>Costo:1000</strong><img src="../.gitbook/assets/image (299).png" alt="" data-size="line"></p><p></p><p>           </p></td></tr><tr><td><strong>Pergamino del hechizo Captura de alma</strong></td><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td>Este pergamino te permitirá aprender el hechizo de Captura de alma                           <strong>Costo:1500</strong><img src="../.gitbook/assets/image (299).png" alt="" data-size="line"></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -152,7 +152,7 @@ Puedes intercambiar con hierro los siguientes objetos:
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Pewgamino de la zanahowia</td><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td>este pewgamino descwibe de un método muy sencillo, en 101 lecciones, pawa que apwendas tú solo la famosa pewo no muy secweta técnica del wey wabbit            <strong>Costo: 1000</strong><img src="../.gitbook/assets/image (301).png" alt="" data-size="line"></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Pewgamino de la zanahowia</td><td><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td>Este pewgamino descwibe de un método muy sencillo, en 101 lecciones, pawa que apwendas tú solo la famosa pewo no muy secweta técnica del wey wabbit            <strong>Costo: 1000</strong><img src="../.gitbook/assets/image (301).png" alt="" data-size="line"></td></tr></tbody></table>
 
 ## Pescador
 
@@ -189,4 +189,4 @@ Con el oficio pescador puede intercambiar los siguientes Objetos&#x20;
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Caja de lupas de la perfección</strong></p><p><img src="../.gitbook/assets/image (306).png" alt="" data-size="original"> </p></td><td>esta caja contiene 15 lupas de la perfección                                 <strong>costo: 80</strong><img src="../.gitbook/assets/image (307).png" alt="" data-size="line">(Trucha)</td><td></td></tr><tr><td><strong>Caja de lupas de la perfección Vip</strong></td><td><img src="../.gitbook/assets/image (306).png" alt="" data-size="original"></td><td>esta caja contiene 30 lupas de la perfección                                 <strong>costo: 60</strong> <img src="../.gitbook/assets/image (308).png" alt="" data-size="line"> (Lubina mericana)</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Caja de lupas de la perfección</strong></p><p><img src="../.gitbook/assets/image (306).png" alt="" data-size="original"> </p></td><td>Esta caja contiene 15 lupas de la perfección                                 <strong>costo: 80</strong><img src="../.gitbook/assets/image (307).png" alt="" data-size="line">(Trucha)</td><td></td></tr><tr><td><strong>Caja de lupas de la perfección Vip</strong></td><td><img src="../.gitbook/assets/image (306).png" alt="" data-size="original"></td><td>Esta caja contiene 30 lupas de la perfección                                 <strong>costo: 60</strong> <img src="../.gitbook/assets/image (308).png" alt="" data-size="line"> (Lubina mericana)</td></tr></tbody></table>
