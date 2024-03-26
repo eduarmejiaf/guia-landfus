@@ -28,7 +28,7 @@ En esta etapa, tú y tu equipo ya dominan las mecánicas básicas del juego y es
 
 * **Mazmorra de peluches:** ¡Diviértete y completa esta mazmorra para obtener[ peluches de tofu, jalato o blob!](../../de-interes/guia-de-recursos.md) Canjéalos en la tienda por el [set ](../../de-interes/guia-de-sets-bonus.md#sets-obtenidos-con-peluches-mazmorra-de-los-peluches)que mejor se adapte a tu estilo de juego y maximiza tu potencial.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen_2024-03-08_201545016.png" alt="" width="557"><figcaption><p>(algunas partes de set peluche)</p></figcaption></figure>
 
@@ -44,7 +44,7 @@ En esta etapa, tú y tu equipo ya dominan las mecánicas básicas del juego y es
 
 * **Dofus laravel:** Esta dofus  te otorgará bonificaciones significativas en vitalidad, resistencia, daños y otras características
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **¿Cómo obtenerl0?**
 
@@ -68,7 +68,7 @@ En esta etapa, tú y tu equipo ya dominan las mecánicas básicas del juego y es
 
 
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Recompensa:**
 
@@ -76,7 +76,7 @@ En esta etapa, tú y tu equipo ya dominan las mecánicas básicas del juego y es
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Así luce la capa velo de tinta mejorada.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="" width="333"><figcaption><p>Así luce la capa velo de tinta mejorada.</p></figcaption></figure>
 
 
 

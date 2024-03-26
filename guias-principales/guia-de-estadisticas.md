@@ -4,7 +4,7 @@ description: >-
   fuerza, la resistencia y la eficacia de tu personaje en combate
 ---
 
-# ✨ Guia de estadisticas
+# ✨ Guia de Estadisticas
 
 <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ Al subir una característica, puedes ver los solfcaps en la interfaz del juego. 
 * **El valor actual de la característica.**
 * **El valor que tendrá la característica después de la inversión.**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,13 +55,13 @@ Al subir una característica, puedes ver los solfcaps en la interfaz del juego. 
 * **Pergaminos de +50 y +100 puntos:** Obtén estos pergaminos para aumentar tus hechizos en **50 o 100 puntos**.
 * **Oficio de alquimista:** Crea pergaminos de hechizos con el oficio de **alquimista**. El **lino** es el ingrediente principal para la elaboración de pergaminos.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Características en Landfus:&#x20;
 
 Las **características** son atributos que definen las capacidades y habilidades de tu personaje en Landfus. Cada una tiene un impacto específico en el juego, tanto en estadísticas base como en la eficacia de hechizos y habilidades.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Vitalidad:(VIT)**<img src="https://cdn.discordapp.com/emojis/1215752774718062705.webp?size=96&#x26;quality=lossless" alt=":Vitalidad:" data-size="line">
 
@@ -114,7 +114,7 @@ La iniciativa es importante por varias razones:
 
 &#x20;**Ejemplo:** sabes cual moob de la sala es el que tiene mas daño y si tienes mas iniciativa que este moob puedes adelantarte al daño y ponerte algun tipo  protección, alejarlo de ti o huir de el mientras organizas tu estrategia.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Placaje:**<img src="https://cdn.discordapp.com/emojis/1218952464179531817.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_110131495removeb:" data-size="line">
 
@@ -124,13 +124,13 @@ El **placaje** es una característica secundaria que **reduce la probabilidad de
 Si el enemigo es capaz de placarte **perderás en algunos casos la mayoría de tus PA y PM.**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Huida:**<img src="https://cdn.discordapp.com/emojis/1218952481074057236.webp?size=96&#x26;quality=lossless" alt=":imagen_20240317_110029568removeb:" data-size="line">
 
 La **huida** es una característica secundaria que **aumenta la probabilidad de que un personaje escape** cuando está adyacente a un enemigo. Esta probabilidad se calcula en base a la diferencia entre la **huida del personaje** y el **placaje del enemigo**.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Ejemplo:**
 
@@ -138,7 +138,7 @@ Un personaje con **70 de huida** es atacado por un enemigo con **100 de placaje*
 
 **Probabilidad de escape = (70 - 100) / 100 = -0.3**
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Daños:
 
@@ -181,7 +181,7 @@ el daño es un elemento fundamental del combate. Existen diversos tipos de daño
 * Ocurre cuando un ataque falla una probabilidad basada en la **precisión** del personaje.
 * Provoca que el **personaje pierda el turno**, pasando al siguiente jugador si este utilizó arma cuerpo a cuerpo, si no, solo desperás los puntos de acción de la habilidad.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Los puntos de características y el bonificador de daños:&#x20;
 
