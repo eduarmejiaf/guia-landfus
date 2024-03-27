@@ -2,7 +2,7 @@
 
 **Reglas de buena conducta que debemos respetar imperativamente; cuentas, personajes, nombres y apodos**
 
-<figure><img src=".gitbook/assets/Yellow and Black Illustrative Esports The Lion King Logo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Yellow and Black Illustrative Esports The Lion King Logo.png" alt=""><figcaption></figcaption></figure>
 
 **NORMAS :**\
 Los apodos de cuenta y de personaje, los nombres de gremio y los nombres y las etiquetas de alianza deben respetar las siguientes reglas:\
