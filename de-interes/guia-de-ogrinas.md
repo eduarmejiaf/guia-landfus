@@ -24,6 +24,10 @@ description: >-
 
 * **Vende objetos valiosos:** Intercambia sets, dofus, mascotas, armas y otros objetos que ya no uses por ogrinas en el mercado del juego.
 
+4. **Mazmorra ogrinas**&#x20;
+
+* por ultimo tienes la opción de hacer la mazmorra ogrinas, que es una mazmorra donde al final de ella recibirás 50 ogrinas donde la mejor opción es realizarla con un sacro de agi y también tienes la opción de usar el hechizo captura de alma para sacar doble recompensa.&#x20;
+
 ### Donaciones para mejorar el servidor
 
 **¿Te apasiona Dofus y quieres contribuir a su desarrollo?** Puedes realizar una donación en la página de ogrinas. Tu apoyo permitirá mejorar el servidor y brindar una mejor experiencia a todos los jugadores.
