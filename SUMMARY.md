@@ -25,7 +25,6 @@
 * [🔥 Guía de Mazmorras](de-interes/guia-de-mazmorras.md)
 * [🪓 Guía de Oficios](de-interes/guia-de-oficios.md)
 * [📈 Guías de Utilidades](de-interes/guias-de-utilidades.md)
-* [⚔️ Guia de PVP](de-interes/guia-de-pvp.md)
 * [💲 Guía de Ogrinas](de-interes/guia-de-ogrinas.md)
 * [🖥️ Especificaciones técnicas](de-interes/especificaciones-tecnicas.md)
 * [👀 Guía de Reglas](de-interes/guia-de-reglas.md)
